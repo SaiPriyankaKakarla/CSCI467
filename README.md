@@ -17,7 +17,7 @@ A Flutter + Firebase-based app to connect students with computer science events,
 - 🔧 Set up the Flutter project environment
 - 🔐 Configured Firebase Authentication
 - 🖼️ Designed Login/Register wireframe  
-  👉 [Figma Wireframe Link](https://www.figma.com/proto/faKMb67gegaajrqQ74RxeZ/Untitled?node-id=0-1&t=Vw376MZn2LvJV3mr-1) and also at (New Text Document.txt)
+  👉 [Figma Wireframe Link]([https://www.figma.com/proto/faKMb67gegaajrqQ74RxeZ/Untitled?node-id=0-1&t=Vw376MZn2LvJV3mr-1](https://www.figma.com/design/faKMb67gegaajrqQ74RxeZ/Untitled?node-id=0-1&m=dev&t=U5deqRFHHRcNZXIp-1)) and also at (New Text Document.txt)
 
 ### 🔹 Sanchit Kakarla
 - 🗂️ Set up Firestore database structure
