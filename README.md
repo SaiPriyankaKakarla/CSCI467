@@ -1,16 +1,35 @@
-# cs_connect_app
+# CS Connect App – CSCI 467 Final Project
 
-A new Flutter project.
+A Flutter + Firebase-based app to connect students with computer science events, resources, and opportunities.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 👥 Team Members
 
-A few resources to get you started if this is your first Flutter project:
+- **Sai Priyanka Kakarla** – Frontend & Firebase Authentication
+- **Sanchit Kakarla** – Backend & Firestore Database
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✅ Week 1 Progress
+
+### 🔹 Sai Priyanka Kakarla
+- 🔧 Set up the Flutter project environment
+- 🔐 Configured Firebase Authentication
+- 🖼️ Designed Login/Register wireframe  
+  👉 [Figma Wireframe Link](https://www.figma.com/proto/faKMb67gegaajrqQ74RxeZ/Untitled?node-id=0-1&t=Vw376MZn2LvJV3mr-1) and also at (New Text Document.txt)
+
+### 🔹 Sanchit Kakarla
+- 🗂️ Set up Firestore database structure
+- 📁 Created `users` and `events` collections in Firestore
+- 📸 Uploaded Firestore structure screenshot  
+  👉 [View Sanchit's Firestore Notes](firebase-progress.md)
+
+---
+
+## 📂 Project Structure
+
+```bash
+lib/                    # Flutter frontend code
+firebase.json           # Firebase config
+firebase-progress.md    # Project documentation and screenshots
